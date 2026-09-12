@@ -1,0 +1,23 @@
+
+Spreadsheet runtime warmup failed during python startup
+Traceback (most recent call last):
+  File "/tmp/tmp.L2TH2Y5coc/artifact_tool_v2-2.8.22/artifact_tool/patches/warm_spreadsheet_runtime_on_startup.py", line 26, in warm_spreadsheet_runtime_on_startup
+  File "/tmp/tmp.L2TH2Y5coc/artifact_tool_v2-2.8.22/artifact_tool/spreadsheet_warmup.py", line 785, in warm_spreadsheet_runtime
+  File "/tmp/tmp.L2TH2Y5coc/artifact_tool_v2-2.8.22/artifact_tool/spreadsheet_warmup.py", line 720, in _warm_feature_flows
+  File "/tmp/tmp.L2TH2Y5coc/artifact_tool_v2-2.8.22/artifact_tool/spreadsheet_warmup.py", line 704, in _warm_collaboration_flows
+  File "/tmp/tmp.L2TH2Y5coc/artifact_tool_v2-2.8.22/artifact_tool/generated/interface/models.py", line 32317, in hydrate_crdt_from_proto
+  File "/tmp/tmp.L2TH2Y5coc/artifact_tool_v2-2.8.22/artifact_tool/rpc/remote.py", line 749, in __call__
+  File "/tmp/tmp.L2TH2Y5coc/artifact_tool_v2-2.8.22/artifact_tool/rpc/client.py", line 150, in call
+artifact_tool.rpc.client.RemoteError: hydrateCrdtFromProto requires an empty collaborative document.
+test_invalid_arguments (test_pipeline.PipelineTests.test_invalid_arguments) ... ok
+test_malformed_cards_are_skipped (test_pipeline.PipelineTests.test_malformed_cards_are_skipped) ... ok
+test_output_files (test_pipeline.PipelineTests.test_output_files) ... ok
+test_parse_quotes_and_next_page (test_pipeline.PipelineTests.test_parse_quotes_and_next_page) ... ok
+test_retry_failure (test_pipeline.PipelineTests.test_retry_failure) ... ok
+test_retry_success (test_pipeline.PipelineTests.test_retry_success) ... ok
+test_summary (test_pipeline.PipelineTests.test_summary) ... ok
+
+----------------------------------------------------------------------
+Ran 7 tests in 0.006s
+
+OK

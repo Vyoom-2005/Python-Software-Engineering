@@ -1,0 +1,12 @@
+WEB SCRAPING ETL SUMMARY
+========================
+Pages requested: 1
+Records extracted: 3
+Unique authors: 3
+Average quote length: 56.67 characters
+
+Top tags:
+- life: 3
+- books: 1
+- humor: 1
+- music: 1

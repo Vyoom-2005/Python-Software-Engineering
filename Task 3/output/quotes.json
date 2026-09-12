@@ -1,0 +1,20 @@
+[
+  {
+    "quote": "“Life is what happens to you while you’re busy making other plans.”",
+    "author": "John Lennon",
+    "tags": "life|music",
+    "source_url": "https://quotes.toscrape.com/"
+  },
+  {
+    "quote": "“Get busy living or get busy dying.”",
+    "author": "Stephen King",
+    "tags": "books|life",
+    "source_url": "https://quotes.toscrape.com/"
+  },
+  {
+    "quote": "“You only live once, but if you do it right, once is enough.”",
+    "author": "Mae West",
+    "tags": "humor|life",
+    "source_url": "https://quotes.toscrape.com/"
+  }
+]
