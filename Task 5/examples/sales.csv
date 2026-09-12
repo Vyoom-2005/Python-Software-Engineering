@@ -1,0 +1,7 @@
+id,customer,category,amount,status
+ORD-001,Acme Labs,Software,1250.50,completed
+ORD-002,Northwind,Cloud,890.00,completed
+ORD-003,Globex,Software,2100.25,pending
+ORD-004,Initech,Support,450.75,completed
+ORD-005,Umbrella,Cloud,1750.00,cancelled
+ORD-006,Stark,Software,3200.00,completed

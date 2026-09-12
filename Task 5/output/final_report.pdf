@@ -1,0 +1,99 @@
+%PDF-1.4
+%‚„œ”
+1 0 obj
+<< /Type /Catalog /Pages 2 0 R >>
+endobj
+2 0 obj
+<< /Type /Pages /Kids [3 0 R] /Count 1 >>
+endobj
+3 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 612 792] /Resources << /Font << /F1 5 0 R >> >> /Contents 4 0 R >>
+endobj
+4 0 obj
+<< /Length 1211 >>
+stream
+BT
+/F1 10 Tf
+50 760 Td
+14 TL
+(Automated Enterprise Report) Tj
+T*
+(======================================================================) Tj
+T*
+(Automated Python Capstone Report) Tj
+T*
+() Tj
+T*
+(Records: 6) Tj
+T*
+(Total amount: 9641.50) Tj
+T*
+(Average amount: 1606.92) Tj
+T*
+(Minimum amount: 450.75) Tj
+T*
+(Maximum amount: 3200.00) Tj
+T*
+() Tj
+T*
+(Status distribution) Tj
+T*
+(----------------------------------------------------------------------) Tj
+T*
+(cancelled: 1) Tj
+T*
+(completed: 4) Tj
+T*
+(pending: 1) Tj
+T*
+() Tj
+T*
+(Category totals) Tj
+T*
+(----------------------------------------------------------------------) Tj
+T*
+(Cloud: 2640.00) Tj
+T*
+(Software: 6550.75) Tj
+T*
+(Support: 450.75) Tj
+T*
+() Tj
+T*
+(Detailed records) Tj
+T*
+(----------------------------------------------------------------------) Tj
+T*
+(ID | Customer | Category | Amount | Status) Tj
+T*
+(ORD-001 | Acme Labs | Software | 1250.50 | completed) Tj
+T*
+(ORD-002 | Northwind | Cloud | 890.00 | completed) Tj
+T*
+(ORD-003 | Globex | Software | 2100.25 | pending) Tj
+T*
+(ORD-004 | Initech | Support | 450.75 | completed) Tj
+T*
+(ORD-005 | Umbrella | Cloud | 1750.00 | cancelled) Tj
+T*
+(ORD-006 | Stark | Software | 3200.00 | completed) Tj
+T*
+ET
+endstream
+endobj
+5 0 obj
+<< /Type /Font /Subtype /Type1 /BaseFont /Helvetica >>
+endobj
+xref
+0 6
+0000000000 65535 f 
+0000000015 00000 n 
+0000000064 00000 n 
+0000000121 00000 n 
+0000000247 00000 n 
+0000001510 00000 n 
+trailer
+<< /Size 6 /Root 1 0 R >>
+startxref
+1580
+%%EOF

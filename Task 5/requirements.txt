@@ -1,0 +1,2 @@
+# Runtime uses Python standard library only.
+# No third-party package is required to run the application or tests.

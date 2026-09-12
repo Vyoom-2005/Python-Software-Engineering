@@ -1,0 +1,17 @@
+{
+  "record_count": 6,
+  "total_amount": "9641.50",
+  "average_amount": "1606.92",
+  "minimum_amount": "450.75",
+  "maximum_amount": "3200.00",
+  "status_counts": {
+    "cancelled": 1,
+    "completed": 4,
+    "pending": 1
+  },
+  "category_totals": {
+    "Cloud": "2640.00",
+    "Software": "6550.75",
+    "Support": "450.75"
+  }
+}

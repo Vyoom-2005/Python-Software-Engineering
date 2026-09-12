@@ -1,0 +1,24 @@
+Generated /tmp/tmp6ym3j2uf/report.pdf from 6 records.
+
+Spreadsheet runtime warmup failed during python startup
+Traceback (most recent call last):
+  File "/tmp/tmp.L2TH2Y5coc/artifact_tool_v2-2.8.22/artifact_tool/patches/warm_spreadsheet_runtime_on_startup.py", line 26, in warm_spreadsheet_runtime_on_startup
+  File "/tmp/tmp.L2TH2Y5coc/artifact_tool_v2-2.8.22/artifact_tool/spreadsheet_warmup.py", line 785, in warm_spreadsheet_runtime
+  File "/tmp/tmp.L2TH2Y5coc/artifact_tool_v2-2.8.22/artifact_tool/spreadsheet_warmup.py", line 720, in _warm_feature_flows
+  File "/tmp/tmp.L2TH2Y5coc/artifact_tool_v2-2.8.22/artifact_tool/spreadsheet_warmup.py", line 704, in _warm_collaboration_flows
+  File "/tmp/tmp.L2TH2Y5coc/artifact_tool_v2-2.8.22/artifact_tool/generated/interface/models.py", line 32317, in hydrate_crdt_from_proto
+  File "/tmp/tmp.L2TH2Y5coc/artifact_tool_v2-2.8.22/artifact_tool/rpc/remote.py", line 749, in __call__
+  File "/tmp/tmp.L2TH2Y5coc/artifact_tool_v2-2.8.22/artifact_tool/rpc/client.py", line 150, in call
+artifact_tool.rpc.client.RemoteError: hydrateCrdtFromProto requires an empty collaborative document.
+test_api_payload_is_parsed (test_capstone.CapstoneTests.test_api_payload_is_parsed) ... ok
+test_cli_end_to_end (test_capstone.CapstoneTests.test_cli_end_to_end) ... ok
+test_csv_loading (test_capstone.CapstoneTests.test_csv_loading) ... ok
+test_invalid_data (test_capstone.CapstoneTests.test_invalid_data) ... ok
+test_json_loading_and_summary (test_capstone.CapstoneTests.test_json_loading_and_summary) ... ok
+test_pdf_generation (test_capstone.CapstoneTests.test_pdf_generation) ... ok
+test_scheduler (test_capstone.CapstoneTests.test_scheduler) ... ok
+
+----------------------------------------------------------------------
+Ran 7 tests in 0.004s
+
+OK

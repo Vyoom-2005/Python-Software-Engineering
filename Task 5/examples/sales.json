@@ -1,0 +1,8 @@
+[
+  {"id": "ORD-001", "customer": "Acme Labs", "category": "Software", "amount": 1250.50, "status": "completed"},
+  {"id": "ORD-002", "customer": "Northwind", "category": "Cloud", "amount": 890.00, "status": "completed"},
+  {"id": "ORD-003", "customer": "Globex", "category": "Software", "amount": 2100.25, "status": "pending"},
+  {"id": "ORD-004", "customer": "Initech", "category": "Support", "amount": 450.75, "status": "completed"},
+  {"id": "ORD-005", "customer": "Umbrella", "category": "Cloud", "amount": 1750.00, "status": "cancelled"},
+  {"id": "ORD-006", "customer": "Stark", "category": "Software", "amount": 3200.00, "status": "completed"}
+]
