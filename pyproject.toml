@@ -1,0 +1,22 @@
+[build-system]
+requires = ["setuptools>=68"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "dev-health"
+version = "1.0.0"
+description = "Deterministic developer-environment health diagnostics CLI"
+readme = "README.md"
+requires-python = ">=3.9"
+license = {text = "MIT"}
+authors = [{name = "RabTech Python Software Engineering Internship"}]
+dependencies = []
+
+[project.scripts]
+dev-health = "dev_health.cli:main"
+
+[tool.setuptools.packages.find]
+include = ["dev_health*"]
+
+[tool.pytest.ini_options]
+testpaths = ["tests"]
