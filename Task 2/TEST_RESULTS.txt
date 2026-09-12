@@ -1,0 +1,13 @@
+test_bad_enrollment (test_all.Tests.test_bad_enrollment) ... ok
+test_bad_json (test_all.Tests.test_bad_json) ... ok
+test_duplicate (test_all.Tests.test_duplicate) ... ok
+test_duplicate_drop (test_all.Tests.test_duplicate_drop) ... ok
+test_enrollment (test_all.Tests.test_enrollment) ... ok
+test_json_csv (test_all.Tests.test_json_csv) ... ok
+test_oop (test_all.Tests.test_oop) ... ok
+test_validation (test_all.Tests.test_validation) ... ok
+
+----------------------------------------------------------------------
+Ran 8 tests in 0.002s
+
+OK

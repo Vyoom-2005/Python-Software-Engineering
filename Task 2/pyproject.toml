@@ -1,0 +1,13 @@
+[build-system]
+requires = ["setuptools"]
+build-backend = "setuptools.build_meta"
+[project]
+name = "oop-data-engine"
+version = "1.0.0"
+description = "University Registrar OOP data management engine"
+requires-python = ">=3.9"
+dependencies = []
+[project.optional-dependencies]
+test = ["pytest", "pytest-cov"]
+[tool.setuptools.packages.find]
+include = ["data_engine*"]
